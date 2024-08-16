@@ -11,11 +11,12 @@ public class AddAndDisplayEmployee {
 
 
         employee.setEmpid(1254);
-        employee.setName("kanan");
-        employee.setMobile("9955664455");
-        employee.setDesignation("SDE");
-        employee.setEmail("kanan@SDE.com");
+        employee.setName("kadam");
+        employee.setMobile("7738886723");
+        employee.setDesignation("Software Developer Engineer");
+        employee.setEmail("kadam@matrix.com");
 
         System.out.println("Employee details are: " + employee);
+        System.out.println("----------------");
     }
 }
