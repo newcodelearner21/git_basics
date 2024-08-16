@@ -47,6 +47,7 @@ public class Employee {
     public void setEmpid(int empid) {
         this.empid = empid;
     }
+
 // toString() method helps display/ print the object
     @Override
     public String toString() {
@@ -56,6 +57,7 @@ public class Employee {
                 ", mobile='" + mobile + '\'' +
                 ", designation='" + designation + '\'' +
                 ", email='" + email + '\'' +
+
                 '}';
     }
 }
